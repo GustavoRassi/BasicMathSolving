@@ -1,7 +1,5 @@
 # BasicMathSolving
 
-# Description:
-
 A console application program designed for solving any basic math problem with the facility to any number of attempts desired.
 It can be either multiplication, division, addition or subtraction and get a score of your progress each time you complete a series of problems.
 
