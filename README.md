@@ -6,5 +6,5 @@ It can be either multiplication, division, addition or subtraction and get a sco
 # What I learned:
 
 * Integrating loop cycles and understanding its efficiency.
-* Maintaining a program from ending
+* Maintaining a program from ending.
 * Give the option to reattempt the program as many times as the user desires to.
